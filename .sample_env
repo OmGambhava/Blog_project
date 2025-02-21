@@ -1,0 +1,10 @@
+DATABASE_NAME = <Database name>
+DATABASE_USER = <user name>
+DATABASE_PASSWORD = <Database password>
+DATABASE_HOST = <host name>
+
+MAIL_ID = <your mail id>
+MAIL_PASSWORD = <mail password>
+MAIL_PORT = <mail port>
+MAIL_SERVER = <your mail server>
+
